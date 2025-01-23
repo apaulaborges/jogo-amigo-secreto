@@ -22,5 +22,7 @@
 <ul>Clique em "Sortear" para exibir um nome aleatório por vez.</ul>
 <ul>Clique em "Reiniciar" para começar um novo sorteio.</ul>
 </ol>
+<h2>Link do Jogo do Amigo secreto</h2>
+https://jogo-amigo-secreto-28v9hu5c3-apaulaborges-projects.vercel.app/
 <h2>Autor</h2>
 <p>>Ana Paula</p>
